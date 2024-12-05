@@ -1,5 +1,5 @@
-# w5-flex
+# website-page-layout-flex
 
-Задача состояла в том, чтобы сверстать страничку с использованием технологии flex и получить такой результат:
+The task was to layout the page using flex technology and get the following result:
 <img src="./assets/img/218.png" alt="паример реализации задания">
 
